@@ -78,18 +78,18 @@ __Key Terms__
 
 Ex. Mouse Knockout
 
-KO/+ (male) x KO/+ (female)
-  |
- \/
- want KO/KO
- expect 25%
- what if 4 or 25?
+KO/+ (male) x KO/+ (female)  
+  ||  
+  \/  
+  want KO/KO  
+  expect 25%  
+  what if sample size 4 or 25?  
  
 Q: When is a ratio 3:1?
 
-  Total: 5474:1850 3.0:1
-  plant #4 19:10 1.9:1
-  pland #7 88:24 3.7:1
+Total: 5474:1850 --> 3.0:1  
+plant #4: 19:10 ----> 1.9:1  
+plant #7: 88:24 ---> 3.7:1  
   
 "How likely is it that these deviations arose by chance due to sample size?"
 + [chi-square test](https://youtu.be/lSmDoKHfym4)
@@ -103,7 +103,7 @@ __Experiment 3__ examine two traits
 |---|---|---|
 |P0|round;yellow x wrinkled;green|AABBxaabb|
 |F1|all round;yellow|AaBb "dihybrid"|
-|F2|round;yellow(315) wrinkled;yellow(101) round;green(108) wrinkled;green(32)|all combos|
+|F2|round;yellow(315)<br>wrinkled;yellow(101)<br>round;green(108)<br>wrinkled;green(32)|all combos|
 ||**9:3:3:1**|
 
 __Interpretation__

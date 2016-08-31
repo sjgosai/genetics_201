@@ -153,7 +153,7 @@ ex: Labrador retrievers
 |F1|black|AaBb|
 |F2|black (9)|A-B-|
 ||brown (3)|aaB-|
-||yellow (3)|A_bb|
+||yellow (3)|A-bb|
 ||yellow (1)|aabb|
 
 + Yellow is epistatic to brown

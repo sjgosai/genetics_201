@@ -163,4 +163,4 @@ ex: Labrador retrievers
 + dominance - alleles of same gene
 + epistasis - alleles of different gene
 
-When two different phenotypes are confered by diff genes (A and B) if the expressed phenotype is confered by B B is epi to A
+When two different phenotypes are confered by different genes (A and B), if the expressed phenotype is confered by B, B is epistatic to A.

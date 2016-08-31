@@ -62,11 +62,7 @@ __Experiment 2__
 | Generation | Phenotype |
 |---|---|
 | F2 | Start with 565 round F2 peas |
-|F3| **"pure" F2** | **"hybrid" F2** |
-| | all-round -- round;wrinkled |
-| | 193 pure -- 372 hybrid |
-| | AA -- Aa |
-| | 1:2 |
+|F3| **"pure" F2** -- **"hybrid" F2** <br> all-round -- round;wrinkled <br> 193 pure ---- 372 hybrid <br> AA ------------ Aa <br> 1:2 |
 
 __Key Terms__
 
@@ -151,10 +147,7 @@ ex: Labrador retrievers
 |---|---|---|
 |P0|brown x yellow|aaBB x AAbb|
 |F1|black|AaBb|
-|F2|black (9)|A-B-|
-||brown (3)|aaB-|
-||yellow (3)|A-bb|
-||yellow (1)|aabb|
+|F2|black (9)<br>brown (3)<br>yellow (3)<br>yellow (1)|A-B-<br>aaB-<br>A-bb<br>aabb|
 
 + Yellow is epistatic to brown
 + bb is epistatic to aa

@@ -92,7 +92,7 @@ Q: When is a ratio 3:1?
   pland #7 88:24 3.7:1
   
 "How likely is it that these deviations arose by chance due to sample size?"
->chi-square test
++ [chi-square test](https://youtu.be/lSmDoKHfym4)
 
 __Experiment 3__ examine two traits
 

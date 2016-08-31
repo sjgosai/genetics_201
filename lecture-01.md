@@ -1,4 +1,4 @@
-### Lecture 1 9/31/2016
+# Lecture 01 - 9/31/2016
 Given by Max
 
 ## Genetics
@@ -41,7 +41,7 @@ __Methods__
   * ex: dom and rec from peas ---> all organisms
   *     CRISPR from bacteria ---> all organisms
 
-__Mendel and peas__
+## Mendel and peas
 + identify _binary_ traits and consider each _separately_
 
    Ex. pea shape - round/wrinkled | no intermediates

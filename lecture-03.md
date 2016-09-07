@@ -94,3 +94,23 @@ _Tetrad analysis_ - essential for many things
 |sisters segreagate apart||
 
 4 haploid products <br> 2:2 segregation if trait is monogenic
+
+Question: Does a mutation segregate in a Mendelian fashion? <br> 2:2 ? <br> yes - probably due to a single mutation <br> no - not Mendelian
+
+__Insert Sporulation figures (w/ and w/o likage and crossovers)__
+
+When 2 markers are linked, a TT tetrad arises by a single crossover
+
+AB x ab -> 90 PD, 10 TT, 0 NPD
+
+(# of recombinants / total progeny) x 100 = linkage
+
+100 tetrads = 400 spores = total progeny
+
+10 tetratypes -> 20 recombinants
+
+(20 recombinants / 400 total progeny) x 100 = 5% linkage = 5 map units = 5 cM <br> (0.5TT/total tetrads) x 100 = cM
+
+__Insert figure regarding double crossing over__
+
+frequency of double crossover results are P:N:T at ratio of 1:1:2
